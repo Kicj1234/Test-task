@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="5.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Aspose.Application\Aspose.Application.csproj" />
+    <ProjectReference Include="..\Aspose.Domain\Aspose.Domain.csproj" />
+    <ProjectReference Include="..\Aspose.Infrastructure\Aspose.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
