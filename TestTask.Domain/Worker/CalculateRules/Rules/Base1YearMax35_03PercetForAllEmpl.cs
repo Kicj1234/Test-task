@@ -3,7 +3,7 @@ using System.Linq;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Aspose.Domain.Worker.CalculateRules.Rules
+namespace TestTask.Domain.Worker.CalculateRules.Rules
 {
     public class Base1YearMax35_03PercetForAllEmpl : IWorkerCalculateRule
     {

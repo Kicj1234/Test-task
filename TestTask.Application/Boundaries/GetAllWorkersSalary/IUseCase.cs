@@ -1,9 +1,9 @@
-﻿using Aspose.Application.Boundaries;
+﻿using TestTask.Application.Boundaries;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Aspose.Application.Boundaries.GetAllWorkersSalary
+namespace TestTask.Application.Boundaries.GetAllWorkersSalary
 {
     internal interface IUseCase : IUseCase<GetAllWorkersSalaryInput>
     {

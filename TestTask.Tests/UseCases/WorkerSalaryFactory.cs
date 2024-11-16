@@ -1,10 +1,10 @@
-﻿using Aspose.Domain.Worker;
-using Aspose.Domain.Worker.CalculateRules;
-using Aspose.Domain.Worker.CalculateRules.Rules;
-using Aspose.Domain.Worker.Employee;
-using Aspose.Domain.Worker.Sales;
+﻿using TestTask.Domain.Worker;
+using TestTask.Domain.Worker.CalculateRules;
+using TestTask.Domain.Worker.CalculateRules.Rules;
+using TestTask.Domain.Worker.Employee;
+using TestTask.Domain.Worker.Sales;
 
-namespace Aspose.Tests.UseCases.GetAllWorkersSalary
+namespace TestTask.Tests.UseCases.GetAllWorkersSalary
 {
     public class WorkerSalaryFactory : IWorkerSalaryFactory
     {

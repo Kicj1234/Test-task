@@ -1,11 +1,11 @@
-﻿using Aspose.Domain.Worker;
-using Aspose.Domain.Worker.CalculateRules;
-using Aspose.Domain.Worker.CalculateRules.Rules;
+﻿using TestTask.Domain.Worker;
+using TestTask.Domain.Worker.CalculateRules;
+using TestTask.Domain.Worker.CalculateRules.Rules;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Aspose.ConsoleUI
+namespace TestTask.ConsoleUI
 {
     public class WorkerSalaryFactory : IWorkerSalaryFactory
     {

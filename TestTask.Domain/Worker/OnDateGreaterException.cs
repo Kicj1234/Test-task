@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Aspose.Domain.Worker
+namespace TestTask.Domain.Worker
 {
     public class OnDateGreaterException : DomainException
     {

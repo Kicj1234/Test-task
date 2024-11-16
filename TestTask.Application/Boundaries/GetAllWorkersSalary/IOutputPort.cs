@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Aspose.Application.Boundaries;
+using TestTask.Application.Boundaries;
 
-namespace Aspose.Application.Boundaries.GetAllWorkersSalary
+namespace TestTask.Application.Boundaries.GetAllWorkersSalary
 {
     public interface IOutputPort : IOutputPortOk<GetAllWorkersSalaryOutput>
     {

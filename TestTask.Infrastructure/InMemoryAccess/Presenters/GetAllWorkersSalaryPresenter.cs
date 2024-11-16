@@ -1,10 +1,10 @@
-﻿using Aspose.Application.Boundaries.GetAllWorkersSalary;
-using Aspose.Domain.Worker;
+﻿using TestTask.Application.Boundaries.GetAllWorkersSalary;
+using TestTask.Domain.Worker;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Aspose.Infrastructure.InMemoryAccess.Presenters
+namespace TestTask.Infrastructure.InMemoryAccess.Presenters
 {
     public class GetAllWorkersSalaryPresenter : IOutputPort
     {

@@ -1,15 +1,15 @@
-﻿using Aspose.Domain.Worker;
-using Aspose.Infrastructure.InMemoryAccess.Repositories;
-using Aspose.Infrastructure.InMemoryAccess;
+﻿using TestTask.Domain.Worker;
+using TestTask.Infrastructure.InMemoryAccess.Repositories;
+using TestTask.Infrastructure.InMemoryAccess;
 using Autofac;
 using System;
 using System.Collections.Generic;
 using System.Text;
-using Aspose.Domain.Worker.CalculateRules;
-using Aspose.Application.Boundaries.GetWorkerSalary;
-using Aspose.Infrastructure.InMemoryAccess.Presenters;
+using TestTask.Domain.Worker.CalculateRules;
+using TestTask.Application.Boundaries.GetWorkerSalary;
+using TestTask.Infrastructure.InMemoryAccess.Presenters;
 
-namespace Aspose.ConsoleUI
+namespace TestTask.ConsoleUI
 {
     public static class Locator
     {

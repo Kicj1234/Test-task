@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Aspose.Domain
+namespace TestTask.Domain
 {
     public class DomainException : Exception
     {

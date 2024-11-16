@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
-using Aspose.Domain.Worker;
+using TestTask.Domain.Worker;
 
-namespace Aspose.Application.Boundaries.GetAllWorkersSalary
+namespace TestTask.Application.Boundaries.GetAllWorkersSalary
 {
     public sealed class GetAllWorkersSalaryInput
     {

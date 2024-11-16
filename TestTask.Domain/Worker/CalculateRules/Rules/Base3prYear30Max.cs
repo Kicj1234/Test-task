@@ -1,9 +1,9 @@
-﻿using Aspose.Domain.Worker.CalculateRules;
+﻿using TestTask.Domain.Worker.CalculateRules;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Aspose.Domain.Worker.CalculateRules.Rules
+namespace TestTask.Domain.Worker.CalculateRules.Rules
 {
     public class Base3prYear30Max : IWorkerCalculateRule
     {

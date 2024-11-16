@@ -1,0 +1,61 @@
+# Общие исключения для ОС
+.DS_Store
+Thumbs.db
+
+# Лог-файлы
+*.log
+
+# Общие файлы IDE и текстовых редакторов
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Файлы системы сборки
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Файлы тестирования
+[TestResults]/
+*.trx
+*.coverage
+*.coveragexml
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+*.nuget.props
+*.nuget.targets
+
+# Файлы Mac/Linux систем
+*.DS_Store
+*.swp
+*.lock
+*.kate-swp
+
+# Файлы конфигурации и временные файлы
+appsettings*.json
+*.tmp
+*.temp
+
+# Папки publish
+publish/
+
+# Rider IDE
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio специфические файлы
+*.vs/
+.vs/
+
+# Конфигурационные файлы
+*.config

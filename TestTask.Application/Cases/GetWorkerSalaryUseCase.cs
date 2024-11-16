@@ -1,12 +1,12 @@
-﻿using Aspose.Application.Boundaries.GetWorkerSalary;
-using Aspose.Domain.Worker;
-using Aspose.Domain.Worker.CalculateRules;
+﻿using TestTask.Application.Boundaries.GetWorkerSalary;
+using TestTask.Domain.Worker;
+using TestTask.Domain.Worker.CalculateRules;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Aspose.Application.Cases
+namespace TestTask.Application.Cases
 {
     public class GetWorkerSalaryUseCase : IUseCase
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Aspose.Application.Boundaries
+namespace TestTask.Application.Boundaries
 {
     /// <summary>
     ///     Use Case.

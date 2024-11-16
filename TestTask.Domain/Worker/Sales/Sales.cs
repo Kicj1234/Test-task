@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Aspose.Domain.Worker.Sales
+namespace TestTask.Domain.Worker.Sales
 {
     public class Sales : Worker
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Aspose.Application.Boundaries.GetWorkerSalary
+namespace TestTask.Application.Boundaries.GetWorkerSalary
 {
     interface IUseCase : IUseCase<GetWorkerSalaryInput>
     {

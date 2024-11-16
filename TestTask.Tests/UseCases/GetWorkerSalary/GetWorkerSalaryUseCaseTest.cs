@@ -1,8 +1,8 @@
-﻿using Aspose.Application.Cases;
-using Aspose.Infrastructure.InMemoryAccess;
-using Aspose.Infrastructure.InMemoryAccess.Presenters;
-using Aspose.Infrastructure.InMemoryAccess.Repositories;
-using Aspose.Tests.UseCases.GetAllWorkersSalary;
+﻿using TestTask.Application.Cases;
+using TestTask.Infrastructure.InMemoryAccess;
+using TestTask.Infrastructure.InMemoryAccess.Presenters;
+using TestTask.Infrastructure.InMemoryAccess.Repositories;
+using TestTask.Tests.UseCases.GetAllWorkersSalary;
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;
@@ -10,7 +10,7 @@ using System.Text;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Aspose.Tests.UseCases.GetWorkerSalary
+namespace TestTask.Tests.UseCases.GetWorkerSalary
 {
     public class GetWorkerSalaryUseCaseTest
     {

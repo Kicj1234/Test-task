@@ -1,9 +1,9 @@
-﻿using Aspose.Application.Boundaries.GetWorkerSalary;
+﻿using TestTask.Application.Boundaries.GetWorkerSalary;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Aspose.Infrastructure.InMemoryAccess.Presenters
+namespace TestTask.Infrastructure.InMemoryAccess.Presenters
 {
     public class GerWorkerSalaryPresenter : IOutputPort
     {

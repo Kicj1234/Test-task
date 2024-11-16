@@ -5,8 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Aspose.Application\TestTask.Application.csproj" />
-    <ProjectReference Include="..\Aspose.Domain\TestTask.Domain.csproj" />
+    <ProjectReference Include="..\TestTask.Application\TestTask.Application.csproj" />
+    <ProjectReference Include="..\TestTask.Domain\TestTask.Domain.csproj" />
   </ItemGroup>
 
 </Project>

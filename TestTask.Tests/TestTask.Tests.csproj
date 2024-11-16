@@ -18,8 +18,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Aspose.Domain\TestTask.Domain.csproj" />
-    <ProjectReference Include="..\Aspose.Infrastructure\TestTask.Infrastructure.csproj" />
+    <ProjectReference Include="..\TestTask.Domain\TestTask.Domain.csproj" />
+    <ProjectReference Include="..\TestTask.Infrastructure\TestTask.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

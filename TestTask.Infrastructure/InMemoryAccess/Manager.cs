@@ -1,9 +1,9 @@
-﻿using Aspose.Domain.Worker;
+﻿using TestTask.Domain.Worker;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Aspose.Infrastructure.InMemoryAccess
+namespace TestTask.Infrastructure.InMemoryAccess
 {
     public class Manager : Domain.Worker.Manager.Manager
     {

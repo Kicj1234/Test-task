@@ -1,11 +1,11 @@
-﻿using Aspose.Domain.Worker;
+﻿using TestTask.Domain.Worker;
 using System;
 using System.Linq;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Aspose.Infrastructure.InMemoryAccess
+namespace TestTask.Infrastructure.InMemoryAccess
 {
     public class InMemoryContext
     {

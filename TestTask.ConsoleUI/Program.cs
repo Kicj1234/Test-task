@@ -1,14 +1,14 @@
-﻿using Aspose.Application.Boundaries.GetAllWorkersSalary;
-using Aspose.Application.Boundaries.GetWorkerSalary;
-using Aspose.Application.Cases;
-using Aspose.Domain.Worker;
-using Aspose.Domain.Worker.CalculateRules;
-using Aspose.Infrastructure.InMemoryAccess;
-using Aspose.Infrastructure.InMemoryAccess.Presenters;
+﻿using TestTask.Application.Boundaries.GetAllWorkersSalary;
+using TestTask.Application.Boundaries.GetWorkerSalary;
+using TestTask.Application.Cases;
+using TestTask.Domain.Worker;
+using TestTask.Domain.Worker.CalculateRules;
+using TestTask.Infrastructure.InMemoryAccess;
+using TestTask.Infrastructure.InMemoryAccess.Presenters;
 using System;
 using System.Threading.Tasks;
 
-namespace Aspose.ConsoleUI
+namespace TestTask.ConsoleUI
 {
     class Program
     {

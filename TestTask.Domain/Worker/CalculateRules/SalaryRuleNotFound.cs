@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Aspose.Domain.Worker.CalculateRules
+namespace TestTask.Domain.Worker.CalculateRules
 {
     public class SalaryRuleNotFound : DomainException
     {

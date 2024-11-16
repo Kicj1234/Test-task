@@ -1,15 +1,15 @@
-﻿using Aspose.Application.Cases;
-using Aspose.Domain.Worker.Manager;
-using Aspose.Infrastructure.InMemoryAccess;
-using Aspose.Infrastructure.InMemoryAccess.Presenters;
-using Aspose.Infrastructure.InMemoryAccess.Repositories;
+﻿using TestTask.Application.Cases;
+using TestTask.Domain.Worker.Manager;
+using TestTask.Infrastructure.InMemoryAccess;
+using TestTask.Infrastructure.InMemoryAccess.Presenters;
+using TestTask.Infrastructure.InMemoryAccess.Repositories;
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Aspose.Tests.UseCases.GetAllWorkersSalary
+namespace TestTask.Tests.UseCases.GetAllWorkersSalary
 {
     public class GetAllWorkersSalaryUseCaseTests
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Aspose.Application.Boundaries
+namespace TestTask.Application.Boundaries
 {
     public interface IOutputPortOk<in TUseCaseOutput>
     {
