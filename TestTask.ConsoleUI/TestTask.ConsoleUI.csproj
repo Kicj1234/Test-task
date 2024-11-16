@@ -10,9 +10,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Aspose.Application\Aspose.Application.csproj" />
-    <ProjectReference Include="..\Aspose.Domain\Aspose.Domain.csproj" />
-    <ProjectReference Include="..\Aspose.Infrastructure\Aspose.Infrastructure.csproj" />
+    <ProjectReference Include="..\Aspose.Application\TestTask.Application.csproj" />
+    <ProjectReference Include="..\Aspose.Domain\TestTask.Domain.csproj" />
+    <ProjectReference Include="..\Aspose.Infrastructure\TestTask.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
